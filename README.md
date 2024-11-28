@@ -19,3 +19,6 @@ Validação de CEP: O aplicativo valida a entrada do usuário para garantir que 
 - O aplicativo faz uma requisição à API ViaCEP, passando o CEP informado.
 - A API responde com os dados do endereço, que são exibidos no aplicativo.
 - Caso o CEP não exista ou haja algum erro na consulta, o aplicativo exibe uma mensagem de erro.
+
+
+![Finalizando e listando endereços buscados da API do VIACEP com Jetpack Compose no Android Studio - YouTube - Google Chrome 28_11_2024 14_37_48](https://github.com/user-attachments/assets/0ddd0031-d813-43a2-8eb5-993dd9becdc2)
